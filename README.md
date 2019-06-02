@@ -8,7 +8,7 @@ Gregorian Calendar is the de facto international standard, and is used almost ev
 Gregorian year has either 365 or 366 days (the leap day being inserted as 29 February), amounting. Calendar was used not only for  timekeeping but also to a specific record or device displaying such a scheme, for example an appointment book in the form of a pocket calendar (or personal organizer), desktop calendar, a wall Calendar etc.
 It is common to display the Gregorian calendar in separate monthly grids of seven columns and five to six rows.
 
-For information behind the maths used to calculate the day of a week, refer [I'm an inline-style link](https://blog.artofmemory.com/how-to-calculate-the-day-of-the-week-4203.html)
+For information behind the maths used to calculate the day of a week, refer [https://blog.artofmemory.com/how-to-calculate-the-day-of-the-week-4203.html](https://blog.artofmemory.com/how-to-calculate-the-day-of-the-week-4203.html)
 
 The simulation results were as follows
 
